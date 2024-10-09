@@ -1,3 +1,2 @@
-# cypress-primeiros-passos
 
-# my Cypress automation
+# My Cypress Automation
